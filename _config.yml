@@ -101,4 +101,5 @@ theme: hexo-theme-Kaze
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:MyFirstKindom/blog.git
